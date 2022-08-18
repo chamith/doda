@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "doda-service": "git@github.com:doda-org/doda-service.git",
+    "doda-web-ui": "git@github.com:doda-org/doda-web-ui.git",
+    "doda-mobile": "git@github.com:doda-org/doda-mobile.git",
+    "doda-remote-cli": "git@github.com:doda-org/doda-remote-cli.git"
+  }
+}
